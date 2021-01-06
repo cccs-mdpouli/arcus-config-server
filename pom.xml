@@ -19,6 +19,7 @@
         <spring-cloud.version>2020.0.0</spring-cloud.version>
     </properties>
 
+
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
