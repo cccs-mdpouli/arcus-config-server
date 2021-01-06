@@ -1,0 +1,7 @@
+azure:
+  keyvault:
+    uri: https://arcus-config-kv-stage.vault.azure.net/
+    client-id: 377a5bbb-8b63-47ea-933c-3ba63657db66
+    client-key: 5~kI-ELWo.3AEKBZyMdNpr_9I.~_KR96Mp
+    tenant-id: fa9b7bc4-84f2-4ea2-932a-26ca2f5fb014
+    secret-keys: test123
